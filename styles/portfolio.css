@@ -54,7 +54,7 @@ h2{
 p{
     font-weight: normal;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 15px;
 }
 
 .btn-branding-outline{
@@ -64,9 +64,4 @@ p{
     font-size: 18px;
     line-height: 27px;
     padding: 15px 30px;
-}
-.poppins-medium {
-    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal;
 }
